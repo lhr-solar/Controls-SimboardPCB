@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name "Footprints")(type "KiCad")(uri "C:/Users/jpustilnik/Documents/UT/LHR Solar/2022-2023/Controls-SimboardPCB/Footprints")(options "")(descr ""))
-  (lib (name "UTSVT_Special")(type "KiCad")(uri "C:/Users/jpustilnik/Documents/UT/LHR Solar/2022-2023/Controls-SimboardPCB/Libraries/UTSVT_Special.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "C:/Users/krets/Documents/DevinPCB/Boards/Controls-SimboardPCB/Footprints")(options "")(descr ""))
+  (lib (name "UTSVT_Special")(type "KiCad")(uri "C:/Users/krets/Documents/DevinPCB/Boards/Controls-SimboardPCB/Libraries/UTSVT_Special.pretty")(options "")(descr ""))
 )
