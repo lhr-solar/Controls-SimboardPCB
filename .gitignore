@@ -24,5 +24,5 @@ ControlsSim/ControlsSim-backups/*
 *.ses
 
 # Exported BOM files
-*.xml
+# *.xml
 *.csv
