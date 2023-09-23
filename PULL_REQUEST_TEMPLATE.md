@@ -6,12 +6,12 @@ There are exceptions with all guidelines. As long as your decisions are justifie
 **Please *read* every word on *every* bullet point before checking off the corresponding box.**
 
 ## Minimum Prerequisites
-- [ ] The board passes ERC and DRC.
+- [X] The board passes ERC and DRC.
     - Note some ERC warnings are acceptable (**_CAUTION_** please be careful)
     - Note some DRC warnings are acceptable (less so than ERC: **_CAUTION_** please be careful).
-- [ ] All traces are routed.
-- [ ] Units are in metric.
-- [ ] Gerbers are in a zip file in the main directory (after physical design is done)
+- [X] All traces are routed.
+- [X] Units are in metric.
+- [X] Gerbers are in a zip file in the main directory (after physical design is done)
 
 **Please *read* every word on *every* bullet point before checking off the corresponding box.**
 
