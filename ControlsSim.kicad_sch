@@ -1460,12 +1460,13 @@
     (uuid fbfded00-69f6-4e9c-97a2-0ad9e6a1d67b)
   )
 
-  (text "v1.0 - Controls Simboard simulates brake, accelerator,\n	   motor and array feedback lights, and ignition\n\nv1.0S - Standardized previous board"
+  (text "v1.0 - Controls Simboard simulates brake, accelerator,\n	   motor and array feedback lights, and ignition\n\nv1.0S - Standardized previous board\n\nv2.0s - Updated the board to better fit the new rotary \n        encoder footprint"
     (at 200.66 55.88 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 673eb41f-5683-4722-9ec2-42802314e532)
   )
-  (text "Future Changes:" (at 196.85 64.77 0)
+  (text "Future Changes:\n\n* Combine this board with dashboard"
+    (at 196.85 64.77 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b393d7c5-a9fb-4725-a803-a2dd0d424fc4)
   )
