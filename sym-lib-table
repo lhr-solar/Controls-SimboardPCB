@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TS16-1212-95-BK-260-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/Symbols/TS16-1212-95-BK-260-SMT-TR.lib")(options "")(descr ""))
+)

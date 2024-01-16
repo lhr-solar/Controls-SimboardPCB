@@ -14,6 +14,8 @@ _autosave-*
 *-save.kicad_pcb
 fp-info-cache
 
+ControlsSim-backups/*
+
 # Netlist files (exported from Eeschema)
 *.net
 
@@ -22,5 +24,5 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-*.xml
+# *.xml
 *.csv
